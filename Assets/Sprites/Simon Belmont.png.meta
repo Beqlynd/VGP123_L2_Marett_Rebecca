@@ -112,7 +112,7 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -133,7 +133,7 @@ TextureImporter:
         width: 11
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -154,7 +154,7 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -175,7 +175,7 @@ TextureImporter:
         width: 16
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -188,7 +188,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_4
+      name: SbAttack1
       rect:
         serializedVersion: 2
         x: 8
@@ -196,7 +196,7 @@ TextureImporter:
         width: 32
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -209,7 +209,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_5
+      name: SbAttack2
       rect:
         serializedVersion: 2
         x: 55
@@ -217,7 +217,7 @@ TextureImporter:
         width: 31
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -230,7 +230,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_6
+      name: SbAttack3
       rect:
         serializedVersion: 2
         x: 107
@@ -238,7 +238,7 @@ TextureImporter:
         width: 46
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -251,7 +251,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_7
+      name: SbAttack4
       rect:
         serializedVersion: 2
         x: 178
@@ -259,7 +259,7 @@ TextureImporter:
         width: 54
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -280,7 +280,7 @@ TextureImporter:
         width: 32
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -301,7 +301,7 @@ TextureImporter:
         width: 32
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -322,7 +322,7 @@ TextureImporter:
         width: 62
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -335,7 +335,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_11
+      name: SbRun1
       rect:
         serializedVersion: 2
         x: 486
@@ -343,7 +343,7 @@ TextureImporter:
         width: 11
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -356,7 +356,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_12
+      name: SbRun2
       rect:
         serializedVersion: 2
         x: 517
@@ -364,7 +364,7 @@ TextureImporter:
         width: 16
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -377,7 +377,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_13
+      name: SbCrouchAttack1
       rect:
         serializedVersion: 2
         x: 8
@@ -385,7 +385,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -398,7 +398,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_14
+      name: SbCrouchAttack2
       rect:
         serializedVersion: 2
         x: 55
@@ -406,7 +406,7 @@ TextureImporter:
         width: 31
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -419,7 +419,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_15
+      name: SbCrouchAttack3
       rect:
         serializedVersion: 2
         x: 107
@@ -427,7 +427,7 @@ TextureImporter:
         width: 46
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -440,7 +440,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_16
+      name: SbCrouchAttack4
       rect:
         serializedVersion: 2
         x: 178
@@ -448,7 +448,7 @@ TextureImporter:
         width: 54
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -469,7 +469,7 @@ TextureImporter:
         width: 32
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -490,7 +490,7 @@ TextureImporter:
         width: 32
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -511,7 +511,7 @@ TextureImporter:
         width: 62
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -524,7 +524,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_20
+      name: SbRun3
       rect:
         serializedVersion: 2
         x: 484
@@ -532,7 +532,7 @@ TextureImporter:
         width: 11
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -545,7 +545,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_21
+      name: SbRun4
       rect:
         serializedVersion: 2
         x: 518
@@ -553,7 +553,7 @@ TextureImporter:
         width: 16
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -566,7 +566,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_22
+      name: SbJumpAttack1
       rect:
         serializedVersion: 2
         x: 8
@@ -574,7 +574,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -587,7 +587,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_23
+      name: SbJumpAttack2
       rect:
         serializedVersion: 2
         x: 55
@@ -595,7 +595,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -608,7 +608,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_24
+      name: SbJumpAttack3
       rect:
         serializedVersion: 2
         x: 107
@@ -616,7 +616,7 @@ TextureImporter:
         width: 46
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -629,7 +629,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_25
+      name: SbJumpAttack4
       rect:
         serializedVersion: 2
         x: 178
@@ -637,7 +637,7 @@ TextureImporter:
         width: 54
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -658,7 +658,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -679,7 +679,7 @@ TextureImporter:
         width: 32
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -700,7 +700,7 @@ TextureImporter:
         width: 62
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -713,7 +713,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_29
+      name: SbCollapse1
       rect:
         serializedVersion: 2
         x: 482
@@ -721,7 +721,7 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -734,7 +734,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_30
+      name: SbCollapse2
       rect:
         serializedVersion: 2
         x: 505
@@ -742,7 +742,7 @@ TextureImporter:
         width: 32
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -763,7 +763,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -784,7 +784,7 @@ TextureImporter:
         width: 30
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -805,7 +805,7 @@ TextureImporter:
         width: 46
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -826,7 +826,7 @@ TextureImporter:
         width: 54
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -847,7 +847,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -868,7 +868,7 @@ TextureImporter:
         width: 32
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -889,7 +889,7 @@ TextureImporter:
         width: 62
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -902,7 +902,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_38
+      name: SbShield1
       rect:
         serializedVersion: 2
         x: 481
@@ -910,7 +910,7 @@ TextureImporter:
         width: 19
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -923,7 +923,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_39
+      name: SbShield2
       rect:
         serializedVersion: 2
         x: 510
@@ -931,7 +931,7 @@ TextureImporter:
         width: 19
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -952,7 +952,7 @@ TextureImporter:
         width: 33
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -973,7 +973,7 @@ TextureImporter:
         width: 32
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -994,7 +994,7 @@ TextureImporter:
         width: 54
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1015,7 +1015,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1036,7 +1036,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1057,7 +1057,7 @@ TextureImporter:
         width: 62
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1070,7 +1070,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_46
+      name: SbPunch1
       rect:
         serializedVersion: 2
         x: 468
@@ -1078,7 +1078,7 @@ TextureImporter:
         width: 25
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1091,7 +1091,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_47
+      name: SbPunch2
       rect:
         serializedVersion: 2
         x: 506
@@ -1099,7 +1099,7 @@ TextureImporter:
         width: 16
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1112,7 +1112,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_48
+      name: SbPunch3
       rect:
         serializedVersion: 2
         x: 533
@@ -1120,7 +1120,7 @@ TextureImporter:
         width: 22
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1141,7 +1141,7 @@ TextureImporter:
         width: 33
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1162,7 +1162,7 @@ TextureImporter:
         width: 32
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1183,7 +1183,7 @@ TextureImporter:
         width: 54
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1204,7 +1204,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1225,7 +1225,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1246,7 +1246,7 @@ TextureImporter:
         width: 62
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1267,7 +1267,7 @@ TextureImporter:
         width: 33
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1288,7 +1288,7 @@ TextureImporter:
         width: 32
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1309,7 +1309,7 @@ TextureImporter:
         width: 54
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1330,7 +1330,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1351,7 +1351,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1372,7 +1372,7 @@ TextureImporter:
         width: 62
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1393,7 +1393,7 @@ TextureImporter:
         width: 33
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1414,7 +1414,7 @@ TextureImporter:
         width: 32
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1435,7 +1435,7 @@ TextureImporter:
         width: 54
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1456,7 +1456,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1477,7 +1477,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1498,7 +1498,7 @@ TextureImporter:
         width: 62
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1519,7 +1519,7 @@ TextureImporter:
         width: 33
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1540,7 +1540,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1561,7 +1561,7 @@ TextureImporter:
         width: 54
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1582,7 +1582,7 @@ TextureImporter:
         width: 32
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1603,7 +1603,7 @@ TextureImporter:
         width: 32
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1624,7 +1624,7 @@ TextureImporter:
         width: 62
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1645,7 +1645,7 @@ TextureImporter:
         width: 33
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1666,7 +1666,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1687,7 +1687,7 @@ TextureImporter:
         width: 54
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1708,7 +1708,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1729,7 +1729,7 @@ TextureImporter:
         width: 32
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1750,7 +1750,7 @@ TextureImporter:
         width: 62
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1771,7 +1771,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1792,7 +1792,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1813,7 +1813,7 @@ TextureImporter:
         width: 54
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1834,7 +1834,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1855,7 +1855,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1876,7 +1876,7 @@ TextureImporter:
         width: 62
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1897,7 +1897,7 @@ TextureImporter:
         width: 32
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1918,7 +1918,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1939,7 +1939,7 @@ TextureImporter:
         width: 54
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1960,7 +1960,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1981,7 +1981,7 @@ TextureImporter:
         width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2002,7 +2002,7 @@ TextureImporter:
         width: 62
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2023,7 +2023,7 @@ TextureImporter:
         width: 127
         height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2044,7 +2044,7 @@ TextureImporter:
         width: 18
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2065,7 +2065,7 @@ TextureImporter:
         width: 122
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2093,94 +2093,94 @@ TextureImporter:
       Simon Belmont_50: 2009033620
       Simon Belmont_73: 1701794948
       Simon Belmont_10: -1974576613
+      SbCollapse1: -684622050
       Simon Belmont_28: -1171645146
-      Simon Belmont_38: 2086601941
-      Simon Belmont_92: -1125318442
       SbCrouch: 949053012
+      Simon Belmont_92: -1125318442
       Simon Belmont_43: -473506851
       Simon Belmont_54: -2079858281
       Simon Belmont_64: 136572949
-      Simon Belmont_14: 1391990619
-      Simon Belmont_76: 92904961
       Simon Belmont_67: -1375224908
+      Simon Belmont_76: 92904961
       SbWalk3: 2001291465
       Simon Belmont_80: -1045661140
       Simon Belmont_31: 377740583
       Simon Belmont_58: -1952986866
       Simon Belmont_53: 198611649
+      SbPunch3: 827448606
       Simon Belmont_70: 218953845
       Simon Belmont_57: -1887879020
       Simon Belmont_8: 709940152
+      SbJumpAttack4: -1670389888
       Simon Belmont_74: -1636943465
-      Simon Belmont_23: 1169296183
       SbWalk2: 616144878
-      Simon Belmont_21: -847103779
       Simon Belmont_51: -1769636886
+      Simon Belmont_69: -1264346140
       Simon Belmont_52: 1685876513
       Simon Belmont_93: 161343502
-      Simon Belmont_69: -1264346140
-      Simon Belmont_20: 1072021890
+      SbPunch2: -702946401
       Simon Belmont_61: 1459109173
+      SbAttack3: -2066759867
       Simon Belmont_26: 1189977538
       Simon Belmont_87: 865970846
       Simon Belmont_33: -1799421584
-      Simon Belmont_24: -1316525675
       Simon Belmont_68: -1332624758
-      Simon Belmont_16: 1153387325
+      Simon Belmont_77: -2120622265
       Simon Belmont_32: -754464887
       Simon Belmont_83: -1951989723
-      Simon Belmont_47: -702946401
-      Simon Belmont_77: -2120622265
-      Simon Belmont_5: -709434731
+      SbCrouchAttack4: 1153387325
       Simon Belmont_42: 1357203380
       Simon Belmont_71: -284190739
-      Simon Belmont_22: 152391542
+      SbCrouchAttack3: -1245684826
       Simon Belmont_79: 850170701
       Simon Belmont_36: -1028127891
-      Simon Belmont_12: 208874446
       Simon Belmont_35: -1298880817
+      SbJumpAttack2: 1169296183
+      SbCollapse2: 1341659635
       Simon Belmont_63: -845981752
-      Simon Belmont_11: 627588200
+      SbJumpAttack1: 152391542
       Simon Belmont_27: 825033897
-      Simon Belmont_6: -2066759867
       Simon Belmont_86: 660859754
-      Simon Belmont_39: -2119180653
       Simon Belmont_81: 663291600
       Simon Belmont_90: -1384619850
       Simon Belmont_82: 1142731480
+      SbPunch1: -1301323690
       Simon Belmont_85: 826590247
       Simon Belmont_49: 172383971
       Simon Belmont_18: -932377875
-      Simon Belmont_48: 827448606
       Simon Belmont_41: -639691223
       Simon Belmont_17: 267728282
-      Simon Belmont_13: 927618722
-      Simon Belmont_15: -1245684826
-      Simon Belmont_7: 83327281
-      Simon Belmont_4: 95311113
       Simon Belmont_75: 1288260040
-      Simon Belmont_25: -1670389888
       Simon Belmont_91: -510959794
       Simon Belmont_65: 1093068437
       Simon Belmont_37: 58045693
       Simon Belmont_66: 968416616
+      SbAttack1: 95311113
       Simon Belmont_78: -450452751
       Simon Belmont_45: 14946095
+      SbJumpAttack3: -1316525675
+      SbShield1: 2086601941
       Simon Belmont_62: -400153709
       Simon Belmont_9: -545128597
+      SbCrouchAttack2: 1391990619
       Simon Belmont_19: -756187091
+      SbAttack4: 83327281
       Simon Belmont_34: 1201596700
       Simon Belmont_44: -1231380235
-      Simon Belmont_46: -1301323690
-      Simon Belmont_29: -684622050
+      SbShield2: -2119180653
       Simon Belmont_40: 1574813945
       Simon Belmont_55: -1257690257
+      SbRun3: 1072021890
+      SbRun1: 627588200
       Simon Belmont_56: 860619291
       Simon Belmont_60: 971258380
-      Simon Belmont_30: 1341659635
+      SbRun4: -847103779
       Simon Belmont_84: 2068745560
+      SbCrouchAttack1: 927618722
+      SbAttack2: -709434731
       Simon Belmont_59: 262271145
       Simon Belmont_89: -2116971975
+      SbRun2: 208874446
       Simon Belmont_88: 1261946826
   spritePackingTag: 
   pSDRemoveMatte: 0

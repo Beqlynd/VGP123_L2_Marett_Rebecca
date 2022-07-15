@@ -104,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Alijiba Woods_0
+      name: AWinit
       rect:
         serializedVersion: 2
         x: 46
@@ -125,7 +125,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_1
+      name: nonApplicable14
       rect:
         serializedVersion: 2
         x: 560
@@ -146,7 +146,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_2
+      name: AWdownWoods
       rect:
         serializedVersion: 2
         x: 578
@@ -167,7 +167,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_3
+      name: AWwoods
       rect:
         serializedVersion: 2
         x: 1110
@@ -188,7 +188,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_4
+      name: nonApplicable10
       rect:
         serializedVersion: 2
         x: 1628
@@ -209,7 +209,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_5
+      name: nonApplicable9
       rect:
         serializedVersion: 2
         x: 1092
@@ -230,11 +230,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_6
+      name: nonApplicable
       rect:
         serializedVersion: 2
         x: 4
-        y: 524
+        y: 525
         width: 38
         height: 41
       alignment: 0
@@ -251,7 +251,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_7
+      name: nonApplicable1
       rect:
         serializedVersion: 2
         x: 191
@@ -272,7 +272,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_8
+      name: BATMAN
       rect:
         serializedVersion: 2
         x: 304
@@ -293,7 +293,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_9
+      name: AWriverDown
       rect:
         serializedVersion: 2
         x: 1146
@@ -314,7 +314,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_10
+      name: nonApplicable2
       rect:
         serializedVersion: 2
         x: 274
@@ -335,7 +335,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_11
+      name: nonApplicable8
       rect:
         serializedVersion: 2
         x: 1093
@@ -356,7 +356,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_12
+      name: AWdarkCave
       rect:
         serializedVersion: 2
         x: 20
@@ -377,7 +377,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_13
+      name: nonApplicable7
       rect:
         serializedVersion: 2
         x: 1065
@@ -398,7 +398,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_14
+      name: nonApplicable11
       rect:
         serializedVersion: 2
         x: 1513
@@ -419,7 +419,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_15
+      name: nonApplicable13
       rect:
         serializedVersion: 2
         x: 3
@@ -440,7 +440,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_16
+      name: AWmansion
       rect:
         serializedVersion: 2
         x: 1426
@@ -461,7 +461,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_17
+      name: nonApplicable12
       rect:
         serializedVersion: 2
         x: 1405
@@ -482,7 +482,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_18
+      name: nonApplicable4
       rect:
         serializedVersion: 2
         x: 674
@@ -503,7 +503,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_19
+      name: nonApplicable5
       rect:
         serializedVersion: 2
         x: 841
@@ -524,7 +524,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_20
+      name: nonApplicable3
       rect:
         serializedVersion: 2
         x: 694
@@ -545,7 +545,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alijiba Woods_21
+      name: nonApplicable6
       rect:
         serializedVersion: 2
         x: 861
@@ -576,28 +576,28 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Alijiba Woods_10: 289199700
-      Alijiba Woods_15: 1778624649
-      Alijiba Woods_1: -1891429893
-      Alijiba Woods_21: -870857259
-      Alijiba Woods_12: 898806612
-      Alijiba Woods_19: -1434484809
-      Alijiba Woods_2: -213200508
-      Alijiba Woods_6: 601152820
-      Alijiba Woods_16: -1888284973
-      Alijiba Woods_20: 1782701431
-      Alijiba Woods_14: 361432952
-      Alijiba Woods_4: -104864728
-      Alijiba Woods_3: -1994797715
-      Alijiba Woods_18: -1010130035
-      Alijiba Woods_8: -203014423
-      Alijiba Woods_13: -641905688
-      Alijiba Woods_17: -2065962938
-      Alijiba Woods_7: 270033002
-      Alijiba Woods_11: -405327676
-      Alijiba Woods_0: -1797052393
-      Alijiba Woods_9: 1944200025
-      Alijiba Woods_5: -1445148149
+      AWinit: -1797052393
+      nonApplicable7: -641905688
+      nonApplicable3: 1782701431
+      nonApplicable14: -1891429893
+      AWwoods: -1994797715
+      nonApplicable1: 270033002
+      AWdownWoods: -213200508
+      nonApplicable2: 289199700
+      nonApplicable4: -1010130035
+      nonApplicable: 601152820
+      nonApplicable8: -405327676
+      nonApplicable13: 1778624649
+      AWriverDown: 1944200025
+      AWdarkCave: 898806612
+      BATMAN: -203014423
+      nonApplicable12: -2065962938
+      AWmansion: -1888284973
+      nonApplicable10: -104864728
+      nonApplicable6: -870857259
+      nonApplicable5: -1434484809
+      nonApplicable11: 361432952
+      nonApplicable9: -1445148149
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
