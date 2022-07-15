@@ -1,0 +1,3686 @@
+fileFormatVersion: 2
+guid: a8c2ca0f70eef434084cc03395be8e69
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ban1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 312
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dabb38b736a1a743a2f6ba20a3efef0
+      internalID: 1095046921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WW1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 312
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a083c5145f8bf44ca366e2ddb334cd9
+      internalID: -956580912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skele1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 312
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378460723a153434c8a9ea361348a3d1
+      internalID: 1822776057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 312
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ae8d3666602a3459a955afc2c6573a
+      internalID: 1551653201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skelet1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 312
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df5f663a2ffdf249b53bf31bc9d7186
+      internalID: 561390219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kni1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 312
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5a955953d3c6e48b12d6fcf070a7f0
+      internalID: 1299944493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeleKni1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 312
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa69cf007e1b3ca498e8d11e2e23b4d0
+      internalID: 774811259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gar1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 312
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a57dc6e15ff4f4096fc8896ce4d828
+      internalID: -1755203839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dr1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 331
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd9ca758e2b92f4da5cdba527835c7d
+      internalID: -697307148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 319
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27598f9c207bbea42afd32b3a7026987
+      internalID: 1578526072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 330
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103fe8eed45750c4bb69c0ecebe164ff
+      internalID: -577483775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 312
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931340a372e390748b319c09f969240b
+      internalID: 1314224869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 318
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff225da6f56a3f4faf77f03c092d6a2
+      internalID: 806192976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 312
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa137d58e405fa47959a697f67fc4b8
+      internalID: -1072454515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 312
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dccc45d93559394bbc67cb5aadacc85
+      internalID: 1822656886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 312
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb13abd333963d43bc13addfe3061a8
+      internalID: 1271888091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 309
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cbea037e94cb34cb925bcfd3136951
+      internalID: 431950139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 312
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349a09475a2cabb43bda9e8ca687c43c
+      internalID: 795962943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 312
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc7ce1c39733741955dc002754ee84
+      internalID: -972791567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dr2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 313
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b896b8e407856874d9660db7f4633669
+      internalID: 1866190937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d512f9310799e4dbce4bb71c2ba38a
+      internalID: -646564878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 320
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9145b11bd11c54dbb5d2413ee5185b
+      internalID: 1225729665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 308
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ca160e594941b478f6ac9766efecfb
+      internalID: 1014380592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 317
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa628d9e7ae74064f8904233c8e8b685
+      internalID: 1227785594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 317
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7235e98a07e37864f91c2a4cb9241b04
+      internalID: -501932853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dr3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 295
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bce31f4d443334eb08bca47b1e9610
+      internalID: 801240519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 302
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f02a1c509b7c5241bddc87c4fd84d36
+      internalID: -2072006235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 284
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cec39ca8a15e841a851b18fa072d73
+      internalID: -1812607228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 284
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784bb2402fe30824b8942edd53950d53
+      internalID: 527546419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 286
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5150de54e9156b24a9d111e386fba806
+      internalID: -793436691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ban2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 268
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688bfeba809def7468646592ff8cfb39
+      internalID: 2036591895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WW2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 268
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0064fb4f7b01a4a8a8ff3b983fd984
+      internalID: -1439676881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skele2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 268
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c142d0eb2ec034047a78eb22a16bed69
+      internalID: 74003143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 268
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c7b2bb6ecda934ba25eb8e3f6e090e
+      internalID: 72048427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skelet2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 268
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0084b64ee385e1e48a37f839a2636a88
+      internalID: 1937364252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kni2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 269
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2277682c584cee14293f32f8242d9431
+      internalID: 743618671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkaleKni2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 269
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e982a2c34008f4898a2fb7360fca1f
+      internalID: 29613819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gar2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 269
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99690c1f7389db4689f976b8ae58cef
+      internalID: -851318886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 276
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf6ede4fe391c9438543a84448712ef
+      internalID: 2077643939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 285
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c58d66dc641354d8c1f1d22ddfc09c
+      internalID: -333392919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 268
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4e5baf2b3a42f4eaa5228a04f2a0b9
+      internalID: 527045967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 285
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b5622b89080644e9f284f60b36a86a
+      internalID: -1788204356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 287
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea32458bbd32449ba9c07292120553
+      internalID: 316991624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 268
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab37863e73fc39f4fb13105ba3a5789f
+      internalID: 487271068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aea8593f9f8e614d980cd2281a7da0d
+      internalID: -120273881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 268
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0390675d8de00b9458ad8914fba7cdd4
+      internalID: -1359165034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 277
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98a91f541e7b4e4eb038a2281035705
+      internalID: 1271963091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 280
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8c68bf1e18c4d498e11fbb43d3b3eb
+      internalID: 67468872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 268
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be03a5dea2e924448b6efcf103fbbc11
+      internalID: 155114197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 268
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68b8dc7491dec8459e2939fbdb88604
+      internalID: -850445017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dr4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 271
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4890f36fabe6d428e3af1613242ef7
+      internalID: -294922048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 262
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3613814d3bf36e342b5e9c2ccf3ab74d
+      internalID: -1996488222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82151d25a719994a8c143ec44f90353
+      internalID: -1201247142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 264
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a54ebacdfa8f694ab05bceda0d4335f
+      internalID: 967253672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 247
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072c50718867eaf48902866da86b475b
+      internalID: -1277047606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GG3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 226
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb25e05313751840a5ab53d5010d2ab
+      internalID: -605263191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff730b1b0e6731a47ae3d1580ef4a3f5
+      internalID: -101688592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 238
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d97e1a10746924196ace5afe36dd75
+      internalID: -877483889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 240
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62000809300369049b78c97f91af7150
+      internalID: -1697205655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 250
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c5a57b63bd50e4e84566cb265934ee
+      internalID: -1966656108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 245
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34beddd331a5bf449937e79f85896c76
+      internalID: 233582849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 243
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb25c509dec90246bb07edead169eee
+      internalID: 904439376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 245
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a492cf4f82c918b42bacdfa0df008e65
+      internalID: 170402797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 249
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ce50c454c87be4d857200a43a0c902
+      internalID: 2045807058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 250
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da99fc9c814b9d945b4004e773b2a6c4
+      internalID: -1812710593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 249
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8c4cd8d6745be4d97df9d41078bd93
+      internalID: 1806986533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 249
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2abc1de7864c74ba5b63b3c49d3121
+      internalID: -6058425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 185
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fae62a379bb457418bef9270ef1a897
+      internalID: -1987285271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 185
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e3226cc2aa2be478dce2da98602fce
+      internalID: 2030784944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 205
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f219283f5aacee488f11e2182faafe6
+      internalID: 27663048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 185
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a000b71d350f7e41ab5ed584031a8a1
+      internalID: -1359347914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 185
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d56e432e7b9964e9fa05b4298a68f4
+      internalID: -295991286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 185
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60380713258bc645b620cdd759de673
+      internalID: -829435390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 185
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04853ab7750803441be75759486f7595
+      internalID: -48643370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 185
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f325f59b29725340b298bc634504945
+      internalID: -1953985440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 184
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3020d952417346948aead970cfdfe39d
+      internalID: -249993137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 184
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74d21b51daa0354f855844ca64de34d
+      internalID: -652080047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 204
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafcc7dc612245b4a97da57ab86dad77
+      internalID: 1700219161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 184
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0066d163815f239449de0269f6c8fb03
+      internalID: 1492849619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 184
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9928d73ad4d204388f4a745599371d
+      internalID: -1943764864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 184
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e523b3475bfe79240879ca57d7e882b8
+      internalID: -94448618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 187
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f41b24a74e77df40a75a7f999cac5ad
+      internalID: 1184350956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 201
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f793f30f6a6424ba523d0fc15fb5b1
+      internalID: 1715129827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 201
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d68e30e43e8b4345a1433995131b3e8
+      internalID: -1405698203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 184
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476c2be790b49c041a71f17c976d0af9
+      internalID: 1322433137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 184
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b853a0e33559c4a8982d5f45fcf9bf
+      internalID: 1966483679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 187
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7640e784a4636714e8ba7a05dbfb0a51
+      internalID: -333752406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 163
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbb26c48514cf841b1d0a78319bcca3
+      internalID: 1875838055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 186
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87057d5baa10ea45a77504eb918a130
+      internalID: -983959283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 188
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bd8d7d69d4fa140b8ae7c2504463b5
+      internalID: -709774035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 168
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3219c9c8371f5204089f196252becba7
+      internalID: -1146706447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 168
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c49e38ecc24ae4fb69a01bacbdb81b
+      internalID: -799352946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e510ae65e942dd04f9549e5f247a8775
+      internalID: 1639562873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae38e18de1313643afe6c3c141e4f0a
+      internalID: 1555940973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 142
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569577bbb1deba04f8e044c29757b92c
+      internalID: 1114351392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 169
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bff0e7d876395a4c82b02d843cb28c2
+      internalID: 716068567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 142
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0dbf94563c72c4fbb80a7698bffff2
+      internalID: -584014219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 141
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2e1aa60f5c80c48aede0e41be9d60f
+      internalID: -2016279856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 141
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adcd0ca6b69c084ba68a084bf373944
+      internalID: -1998840987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 141
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b651398db1019648b21b86d031fcfb5
+      internalID: -1813156056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 140
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d16976c9aaf2f44e9d34dff0a0a910b
+      internalID: -316445202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827cb4b0a7b09d346ab1119516ac193b
+      internalID: 764132893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 141
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113409ed9a16a9f4fa99aa3080085e9a
+      internalID: -1593564729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 168
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de78dfc61c128946b98da2b27fe0ebd
+      internalID: -1046722734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 141
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82e8f3d49937454ca95a7211a581af1
+      internalID: -1659411413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 140
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3596172b4ba1dc34bb8edd063b4cf8f1
+      internalID: -1304589601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 159
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d8bf512008ef948aded6a2049152b3
+      internalID: -805365894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 140
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a79f7a87a77178488f56cf11843bc58
+      internalID: -1399775659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 165
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddf67ace22f5c64f952cf093737e307
+      internalID: 2064109211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5782f2b55f5604a9f757d36d8e797a
+      internalID: -2074837257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 140
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10932237d1d7a344a88784c79d7cdc8
+      internalID: 1863767499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 154
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1596dc4c96de5479a687bd7e828f06
+      internalID: 1071553191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 145
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3963b2fcf8bad46bc229bc975d94f7
+      internalID: -305090257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 144
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab5c0e973d193a4389991ee45a1bc03
+      internalID: 2032693442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 143
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eae0620e70c35641a7030886557fba1
+      internalID: 1811582472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 135
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2476278d313a7478ee7c5ed3b47c3c
+      internalID: -727352748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 135
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0280fff76157643b7ed9f8c4d639a6
+      internalID: 1923021107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 126
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e12273a68716340956891d08baef49
+      internalID: -720659432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 114
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7363be1f55cba4c8b258ebab4fccb6
+      internalID: 276837455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 112
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5bffa6a3ce5ce4bb9156b4f5dfc228
+      internalID: -1720792348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 114
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b3ae84767c2a4281689d4bf389bd9
+      internalID: -307306636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 126
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc313057bc9cfb14a8ed2137187e0623
+      internalID: 1834853307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 124
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0802a18721299a479958536d5933eb9
+      internalID: -352739122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 116
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdb9e8af66673e418ffbfd393efbca1
+      internalID: -2008924022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 114
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c029f618bf8a494da09df01e6367332
+      internalID: 2120941445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 116
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b64745b3d70bc24d95d512f585cf109
+      internalID: -1571112642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd84b30096d8974448436984f7afef48
+      internalID: -194240767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 81
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57138092745b67d42b0ce528929c5cac
+      internalID: 263578037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 80
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a1c08e95988d64489fb4b4598c9dd1
+      internalID: 765038502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 78
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e7061ed3954a54eaec1099a6cdb42a
+      internalID: -954039524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8800f4a98a3478548add437076fcce15
+      internalID: 583872431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 78
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5ffaec6642f5d40a460bc7558a1658
+      internalID: 620610685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 78
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5f2455e3842344d9cfb0de52bc7090
+      internalID: -1459714567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 78
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c124503f0b424474a83b7fb829b568ef
+      internalID: -989714948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 78
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111bd3775aa23004faffc12fa26aad1b
+      internalID: 1416766817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 79
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9f62fd70e6d1048b03077e6a51cc6d
+      internalID: 2137238135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 66
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4adfcb235529d43b89375c30b93843
+      internalID: -1589490536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 85
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b1fd140b174dc4182b395e22afc3f9
+      internalID: 1667807302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 34
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6740e05321d2e464bab8478b87385da0
+      internalID: 838479507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 52
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6235df3c6eeaf04419f732a1c6e7ec94
+      internalID: -1517069239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 34
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f038bce8b9ae7479a07c2b877e5202
+      internalID: -828143629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a127c7c1eb0134eb9cd1b7d097377e
+      internalID: 1457693800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 34
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622e07e33c9f7d14a90d4ad059860eba
+      internalID: -1512337886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 34
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabe2c83f71534e4f88e79d247172ee1
+      internalID: -1918206093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 34
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a60606cce1ff04db665757ee78cb10
+      internalID: 1857182366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 49
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd688457944f39418212bfc32d385ab
+      internalID: 858781039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9f66a86c269794caf599cc2d2d867f
+      internalID: 1197819808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 47
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f198e73fc5b146a7a41750440a4da
+      internalID: 1173094830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 34
+        width: 93
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000fb6b703178984b92b45cefa3b2ee6
+      internalID: -1361838400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 61
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fe03b5c4aff4d47bb540b9a213cb7d
+      internalID: 1024977826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 63
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c721b563572a54ab7088fb682bd975
+      internalID: 497011342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 45
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8c0da6119772e438f55a6b3b65e38f
+      internalID: -972023275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 21
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73b8257d2b9d9f4992deb6eff5ccd31
+      internalID: -20686170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7521485be48baf946a374431a5d1e09a
+      internalID: -1217024191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 58
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2629a750bdd40e4588f150f238718a6
+      internalID: -1711613577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 21
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a63c277b241ecc44a89ce65ff45fc01
+      internalID: -267706860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 33
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145c2e1278bdf6546bb7dee3c39b169e
+      internalID: 1445200856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 23
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bf830e72e32bc4a9a34c4310439824
+      internalID: -245395537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 21
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86f5f3abd515194d82cbd44769159e7
+      internalID: -573192689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 19
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657a8e660afd81948a51a5c171c1473d
+      internalID: -480169503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 11
+        width: 122
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633420a537ba38c43bc368873fe959d6
+      internalID: -1325013151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1de67410cf21df4baab80458f775bc0
+      internalID: 387769248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Castlevania 2 Simons Quest - Enemies_58: -1697205655
+      SkeleKni1: 774811259
+      NES - Castlevania 2 Simons Quest - Enemies_158: -573192689
+      NES - Castlevania 2 Simons Quest - Enemies_23: 1227785594
+      NES - Castlevania 2 Simons Quest - Enemies_112: -305090257
+      NES - Castlevania 2 Simons Quest - Enemies_126: -194240767
+      NES - Castlevania 2 Simons Quest - Enemies_123: -2008924022
+      NES - Castlevania 2 Simons Quest - Enemies_100: -316445202
+      NES - Castlevania 2 Simons Quest - Enemies_21: 1225729665
+      NES - Castlevania 2 Simons Quest - Enemies_24: -501932853
+      NES - Castlevania 2 Simons Quest - Enemies_44: -120273881
+      NES - Castlevania 2 Simons Quest - Enemies_101: 764132893
+      GG2: 72048427
+      NES - Castlevania 2 Simons Quest - Enemies_110: 1863767499
+      NES - Castlevania 2 Simons Quest - Enemies_133: -989714948
+      NES - Castlevania 2 Simons Quest - Enemies_71: -295991286
+      NES - Castlevania 2 Simons Quest - Enemies_139: -1517069239
+      NES - Castlevania 2 Simons Quest - Enemies_68: 2030784944
+      NES - Castlevania 2 Simons Quest - Enemies_67: -1987285271
+      NES - Castlevania 2 Simons Quest - Enemies_121: 1834853307
+      NES - Castlevania 2 Simons Quest - Enemies_95: 716068567
+      NES - Castlevania 2 Simons Quest - Enemies_136: -1589490536
+      NES - Castlevania 2 Simons Quest - Enemies_145: 858781039
+      Dr2: 1866190937
+      NES - Castlevania 2 Simons Quest - Enemies_150: 497011342
+      NES - Castlevania 2 Simons Quest - Enemies_87: 1875838055
+      NES - Castlevania 2 Simons Quest - Enemies_91: -799352946
+      NES - Castlevania 2 Simons Quest - Enemies_108: 2064109211
+      Skelet2: 1937364252
+      NES - Castlevania 2 Simons Quest - Enemies_17: 795962943
+      NES - Castlevania 2 Simons Quest - Enemies_161: 387769248
+      NES - Castlevania 2 Simons Quest - Enemies_26: -2072006235
+      NES - Castlevania 2 Simons Quest - Enemies_144: 1857182366
+      NES - Castlevania 2 Simons Quest - Enemies_45: -1359165034
+      Skele1: 1822776057
+      NES - Castlevania 2 Simons Quest - Enemies_107: -1399775659
+      NES - Castlevania 2 Simons Quest - Enemies_80: -94448618
+      NES - Castlevania 2 Simons Quest - Enemies_63: 2045807058
+      Kni1: 1299944493
+      NES - Castlevania 2 Simons Quest - Enemies_56: -101688592
+      Skelet1: 561390219
+      NES - Castlevania 2 Simons Quest - Enemies_160: -1325013151
+      NES - Castlevania 2 Simons Quest - Enemies_10: -577483775
+      NES - Castlevania 2 Simons Quest - Enemies_42: 316991624
+      NES - Castlevania 2 Simons Quest - Enemies_38: 2077643939
+      NES - Castlevania 2 Simons Quest - Enemies_106: -805365894
+      NES - Castlevania 2 Simons Quest - Enemies_149: 1024977826
+      NES - Castlevania 2 Simons Quest - Enemies_51: -1996488222
+      NES - Castlevania 2 Simons Quest - Enemies_120: -307306636
+      NES - Castlevania 2 Simons Quest - Enemies_131: 620610685
+      NES - Castlevania 2 Simons Quest - Enemies_129: -954039524
+      NES - Castlevania 2 Simons Quest - Enemies_40: 527045967
+      NES - Castlevania 2 Simons Quest - Enemies_96: -584014219
+      NES - Castlevania 2 Simons Quest - Enemies_109: -2074837257
+      GG3: -605263191
+      NES - Castlevania 2 Simons Quest - Enemies_99: -1813156056
+      NES - Castlevania 2 Simons Quest - Enemies_152: -20686170
+      NES - Castlevania 2 Simons Quest - Enemies_82: 1715129827
+      NES - Castlevania 2 Simons Quest - Enemies_118: 276837455
+      Ban2: 2036591895
+      NES - Castlevania 2 Simons Quest - Enemies_114: 1811582472
+      NES - Castlevania 2 Simons Quest - Enemies_57: -877483889
+      GG1: 1551653201
+      NES - Castlevania 2 Simons Quest - Enemies_12: 806192976
+      NES - Castlevania 2 Simons Quest - Enemies_13: -1072454515
+      NES - Castlevania 2 Simons Quest - Enemies_97: -2016279856
+      NES - Castlevania 2 Simons Quest - Enemies_65: 1806986533
+      SkaleKni2: 29613819
+      NES - Castlevania 2 Simons Quest - Enemies_119: -1720792348
+      NES - Castlevania 2 Simons Quest - Enemies_14: 1822656886
+      NES - Castlevania 2 Simons Quest - Enemies_116: 1923021107
+      NES - Castlevania 2 Simons Quest - Enemies_78: 1492849619
+      NES - Castlevania 2 Simons Quest - Enemies_113: 2032693442
+      NES - Castlevania 2 Simons Quest - Enemies_138: 838479507
+      NES - Castlevania 2 Simons Quest - Enemies_41: -1788204356
+      NES - Castlevania 2 Simons Quest - Enemies_153: -1217024191
+      NES - Castlevania 2 Simons Quest - Enemies_84: 1322433137
+      NES - Castlevania 2 Simons Quest - Enemies_62: 170402797
+      NES - Castlevania 2 Simons Quest - Enemies_88: -983959283
+      NES - Castlevania 2 Simons Quest - Enemies_103: -1046722734
+      NES - Castlevania 2 Simons Quest - Enemies_52: -1201247142
+      NES - Castlevania 2 Simons Quest - Enemies_61: 904439376
+      NES - Castlevania 2 Simons Quest - Enemies_53: 967253672
+      NES - Castlevania 2 Simons Quest - Enemies_77: 1700219161
+      NES - Castlevania 2 Simons Quest - Enemies_124: 2120941445
+      NES - Castlevania 2 Simons Quest - Enemies_69: 27663048
+      NES - Castlevania 2 Simons Quest - Enemies_79: -1943764864
+      NES - Castlevania 2 Simons Quest - Enemies_141: 1457693800
+      NES - Castlevania 2 Simons Quest - Enemies_127: 263578037
+      NES - Castlevania 2 Simons Quest - Enemies_154: -1711613577
+      NES - Castlevania 2 Simons Quest - Enemies_49: -850445017
+      NES - Castlevania 2 Simons Quest - Enemies_83: -1405698203
+      NES - Castlevania 2 Simons Quest - Enemies_156: 1445200856
+      NES - Castlevania 2 Simons Quest - Enemies_16: 431950139
+      NES - Castlevania 2 Simons Quest - Enemies_151: -972023275
+      NES - Castlevania 2 Simons Quest - Enemies_147: 1173094830
+      NES - Castlevania 2 Simons Quest - Enemies_159: -480169503
+      Dr4: -294922048
+      Ban1: 1095046921
+      NES - Castlevania 2 Simons Quest - Enemies_115: -727352748
+      NES - Castlevania 2 Simons Quest - Enemies_54: -1277047606
+      NES - Castlevania 2 Simons Quest - Enemies_18: -972791567
+      NES - Castlevania 2 Simons Quest - Enemies_102: -1593564729
+      Gar1: -1755203839
+      NES - Castlevania 2 Simons Quest - Enemies_137: 1667807302
+      NES - Castlevania 2 Simons Quest - Enemies_60: 233582849
+      NES - Castlevania 2 Simons Quest - Enemies_27: -1812607228
+      NES - Castlevania 2 Simons Quest - Enemies_122: -352739122
+      NES - Castlevania 2 Simons Quest - Enemies_142: -1512337886
+      NES - Castlevania 2 Simons Quest - Enemies_98: -1998840987
+      NES - Castlevania 2 Simons Quest - Enemies_93: 1555940973
+      NES - Castlevania 2 Simons Quest - Enemies_59: -1966656108
+      Kni2: 743618671
+      NES - Castlevania 2 Simons Quest - Enemies_135: 2137238135
+      NES - Castlevania 2 Simons Quest - Enemies_43: 487271068
+      Skele2: 74003143
+      NES - Castlevania 2 Simons Quest - Enemies_48: 155114197
+      NES - Castlevania 2 Simons Quest - Enemies_76: -652080047
+      NES - Castlevania 2 Simons Quest - Enemies_85: 1966483679
+      NES - Castlevania 2 Simons Quest - Enemies_130: 583872431
+      NES - Castlevania 2 Simons Quest - Enemies_132: -1459714567
+      Dr1: -697307148
+      NES - Castlevania 2 Simons Quest - Enemies_64: -1812710593
+      NES - Castlevania 2 Simons Quest - Enemies_140: -828143629
+      NES - Castlevania 2 Simons Quest - Enemies_104: -1659411413
+      NES - Castlevania 2 Simons Quest - Enemies_105: -1304589601
+      NES - Castlevania 2 Simons Quest - Enemies_66: -6058425
+      NES - Castlevania 2 Simons Quest - Enemies_157: -245395537
+      NES - Castlevania 2 Simons Quest - Enemies_155: -267706860
+      NES - Castlevania 2 Simons Quest - Enemies_15: 1271888091
+      NES - Castlevania 2 Simons Quest - Enemies_111: 1071553191
+      NES - Castlevania 2 Simons Quest - Enemies_75: -249993137
+      NES - Castlevania 2 Simons Quest - Enemies_92: 1639562873
+      Dr3: 801240519
+      NES - Castlevania 2 Simons Quest - Enemies_73: -48643370
+      NES - Castlevania 2 Simons Quest - Enemies_134: 1416766817
+      NES - Castlevania 2 Simons Quest - Enemies_72: -829435390
+      NES - Castlevania 2 Simons Quest - Enemies_125: -1571112642
+      NES - Castlevania 2 Simons Quest - Enemies_143: -1918206093
+      NES - Castlevania 2 Simons Quest - Enemies_89: -709774035
+      NES - Castlevania 2 Simons Quest - Enemies_117: -720659432
+      NES - Castlevania 2 Simons Quest - Enemies_47: 67468872
+      NES - Castlevania 2 Simons Quest - Enemies_9: 1578526072
+      WW2: -1439676881
+      NES - Castlevania 2 Simons Quest - Enemies_39: -333392919
+      NES - Castlevania 2 Simons Quest - Enemies_29: -793436691
+      NES - Castlevania 2 Simons Quest - Enemies_148: -1361838400
+      NES - Castlevania 2 Simons Quest - Enemies_70: -1359347914
+      NES - Castlevania 2 Simons Quest - Enemies_128: 765038502
+      NES - Castlevania 2 Simons Quest - Enemies_146: 1197819808
+      NES - Castlevania 2 Simons Quest - Enemies_81: 1184350956
+      NES - Castlevania 2 Simons Quest - Enemies_11: 1314224869
+      NES - Castlevania 2 Simons Quest - Enemies_20: -646564878
+      NES - Castlevania 2 Simons Quest - Enemies_74: -1953985440
+      WW1: -956580912
+      NES - Castlevania 2 Simons Quest - Enemies_86: -333752406
+      NES - Castlevania 2 Simons Quest - Enemies_90: -1146706447
+      NES - Castlevania 2 Simons Quest - Enemies_22: 1014380592
+      NES - Castlevania 2 Simons Quest - Enemies_94: 1114351392
+      NES - Castlevania 2 Simons Quest - Enemies_46: 1271963091
+      NES - Castlevania 2 Simons Quest - Enemies_28: 527546419
+      Gar2: -851318886
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
