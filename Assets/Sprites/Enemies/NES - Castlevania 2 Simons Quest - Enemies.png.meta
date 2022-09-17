@@ -1,0 +1,809 @@
+fileFormatVersion: 2
+guid: be451e8425398034d8142a519c4904ed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lagoon1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 312
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a939eff403075419ce8fe87868d822
+      internalID: -1884277602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 312
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b8e66b4cfbd8b438dfc5b170575c81
+      internalID: 1256900516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gargoyl1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 312
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e7db54e4a500c49819fcaf39a67d3b
+      internalID: 186260197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeDrop1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 331
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8474269562c82854e82bdaa0369e48ac
+      internalID: 1732066363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 319
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfb7e6b0317dcf4cbf43e4f84cae6bb
+      internalID: 1130615972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skele1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 312
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121683f7a7897354eae350bdb1578c31
+      internalID: -1152238054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeDrop2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 313
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e0f6d0f426e8143a7a97188162c353
+      internalID: 943702870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 308
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058689b4d671888448089a09a2617d89
+      internalID: 1114947091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeDrop3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 295
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977dbbd4a3a38f8448ecacaacd591630
+      internalID: -1848358281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 302
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5637d4a6623efc241b5278def36f9037
+      internalID: 1718216925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lagoon2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 268
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317bd6ffc4bc35146afc9c7acd4f3a69
+      internalID: -491672231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 269
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac98f026223e1c4c9361f9734bfafe2
+      internalID: -786531213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gargoyl2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 269
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce859f34400a2b446aa623136fd38d35
+      internalID: -1097403696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 276
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4391a3ccb945344bf16657f4a7ccff
+      internalID: 992161753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 285
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3db850768ce5fd40bed8bd3d474d0bb
+      internalID: 1765628224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skele2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 268
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379426163673f349874c46c937ceda2
+      internalID: 45322044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat2
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 277
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689ff5bbba31e8e4b9276b08e97db607
+      internalID: -1686311572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeDrop4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 271
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4b98475fceb7a40b9f87af84cd3de0
+      internalID: -532460583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 262
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87468c07657d261438fc4bd5d691488a
+      internalID: 64218652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lagoon3Shoot
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 247
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c672240aa66b4ca582fe679a3aaf5
+      internalID: 34387854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lagoon3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 226
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42038aaef25889646ad263ab5c672d96
+      internalID: 775987584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gargoyl2Shoot
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 250
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b14e8922e9cf64cb8fb6a2f3178952
+      internalID: -64214196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skele2Shoot1
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 116
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1458336d465fe4642932b3780ceb6dfe
+      internalID: 849919131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skele2Shoot2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 114
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8257c64df9863394cbc7b6cf209c87d1
+      internalID: 1664075305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skele2Shoot3
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 116
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d046bada1d53fa54fa82fdad92d5c381
+      internalID: -1972261022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Castlevania 2 Simons Quest - Enemies_58: 1530535003
+      NES - Castlevania 2 Simons Quest - Enemies_158: 761575340
+      NES - Castlevania 2 Simons Quest - Enemies_112: 922186415
+      NES - Castlevania 2 Simons Quest - Enemies_126: -619473545
+      NES - Castlevania 2 Simons Quest - Enemies_100: 30604623
+      NES - Castlevania 2 Simons Quest - Enemies_21: -288579603
+      NES - Castlevania 2 Simons Quest - Enemies_24: 250396198
+      NES - Castlevania 2 Simons Quest - Enemies_44: 1985079731
+      NES - Castlevania 2 Simons Quest - Enemies_101: 1981964355
+      Lagoon2: -491672231
+      NES - Castlevania 2 Simons Quest - Enemies_110: -46684246
+      NES - Castlevania 2 Simons Quest - Enemies_133: -18633950
+      NES - Castlevania 2 Simons Quest - Enemies_71: -646997326
+      NES - Castlevania 2 Simons Quest - Enemies_150: -722755563
+      NES - Castlevania 2 Simons Quest - Enemies_68: -1551912753
+      NES - Castlevania 2 Simons Quest - Enemies_67: -1180648024
+      GargoyleWalk1: 1473279984
+      Lagoon1: -1884277602
+      NES - Castlevania 2 Simons Quest - Enemies_121: 1408805394
+      Cat1: 1114947091
+      NES - Castlevania 2 Simons Quest - Enemies_95: -503569506
+      NES - Castlevania 2 Simons Quest - Enemies_136: -1502601064
+      Lagoon3: 775987584
+      NES - Castlevania 2 Simons Quest - Enemies_145: -2055570728
+      Knight2: -786531213
+      NES - Castlevania 2 Simons Quest - Enemies_87: -709603695
+      NES - Castlevania 2 Simons Quest - Enemies_91: 1265184582
+      NES - Castlevania 2 Simons Quest - Enemies_108: 1122952324
+      NES - Castlevania 2 Simons Quest - Enemies_17: 637017757
+      NES - Castlevania 2 Simons Quest - Enemies_161: -56186687
+      NES - Castlevania 2 Simons Quest - Enemies_144: 1267513454
+      NES - Castlevania 2 Simons Quest - Enemies_2: -1281999183
+      NES - Castlevania 2 Simons Quest - Enemies_45: 693770940
+      Skele1: -1152238054
+      NES - Castlevania 2 Simons Quest - Enemies_107: -873779484
+      NES - Castlevania 2 Simons Quest - Enemies_80: -689981133
+      NES - Castlevania 2 Simons Quest - Enemies_63: -2103824743
+      NES - Castlevania 2 Simons Quest - Enemies_56: -1872373299
+      NES - Castlevania 2 Simons Quest - Enemies_160: -166355265
+      NES - Castlevania 2 Simons Quest - Enemies_10: 1351086620
+      NES - Castlevania 2 Simons Quest - Enemies_42: -266278787
+      Skele2Shoot2: 1664075305
+      NES - Castlevania 2 Simons Quest - Enemies_32: -1047623956
+      NES - Castlevania 2 Simons Quest - Enemies_106: -710674455
+      NES - Castlevania 2 Simons Quest - Enemies_149: 670309624
+      NES - Castlevania 2 Simons Quest - Enemies_120: 1362289252
+      NES - Castlevania 2 Simons Quest - Enemies_131: 1973377365
+      GargoyleWalk2: 1860502681
+      SlimeDrop2: 943702870
+      NES - Castlevania 2 Simons Quest - Enemies_96: 1108311132
+      NES - Castlevania 2 Simons Quest - Enemies_109: -306548732
+      Gargoyl1: 186260197
+      NES - Castlevania 2 Simons Quest - Enemies_99: 633335722
+      NES - Castlevania 2 Simons Quest - Enemies_152: 1910080388
+      NES - Castlevania 2 Simons Quest - Enemies_82: -1524713326
+      NES - Castlevania 2 Simons Quest - Enemies_31: 251644841
+      NES - Castlevania 2 Simons Quest - Enemies_118: 1256009285
+      NES - Castlevania 2 Simons Quest - Enemies_114: 1288900810
+      NES - Castlevania 2 Simons Quest - Enemies_57: 68159487
+      NES - Castlevania 2 Simons Quest - Enemies_12: 1992630987
+      NES - Castlevania 2 Simons Quest - Enemies_13: -1364374678
+      NES - Castlevania 2 Simons Quest - Enemies_97: 1789274903
+      NES - Castlevania 2 Simons Quest - Enemies_14: -1877066449
+      NES - Castlevania 2 Simons Quest - Enemies_65: 1659972381
+      NES - Castlevania 2 Simons Quest - Enemies_119: 1660468947
+      NES - Castlevania 2 Simons Quest - Enemies_116: -987467210
+      NES - Castlevania 2 Simons Quest - Enemies_78: -2037550046
+      NES - Castlevania 2 Simons Quest - Enemies_113: 755034016
+      Gargoyl2: -1097403696
+      NES - Castlevania 2 Simons Quest - Enemies_138: -2014136944
+      NES - Castlevania 2 Simons Quest - Enemies_41: -492032084
+      NES - Castlevania 2 Simons Quest - Enemies_153: -820165428
+      NES - Castlevania 2 Simons Quest - Enemies_84: -376995877
+      Gargoyle2: 1466917231
+      NES - Castlevania 2 Simons Quest - Enemies_62: 1841853218
+      NES - Castlevania 2 Simons Quest - Enemies_88: -514135404
+      NES - Castlevania 2 Simons Quest - Enemies_103: 463356529
+      NES - Castlevania 2 Simons Quest - Enemies_52: 1077495768
+      NES - Castlevania 2 Simons Quest - Enemies_61: 1512419314
+      NES - Castlevania 2 Simons Quest - Enemies_53: -1060438951
+      NES - Castlevania 2 Simons Quest - Enemies_77: -750440134
+      NES - Castlevania 2 Simons Quest - Enemies_69: 860904868
+      NES - Castlevania 2 Simons Quest - Enemies_79: 881868793
+      NES - Castlevania 2 Simons Quest - Enemies_30: -1827425346
+      NES - Castlevania 2 Simons Quest - Enemies_127: 158016692
+      NES - Castlevania 2 Simons Quest - Enemies_154: -65852189
+      NES - Castlevania 2 Simons Quest - Enemies_49: 108843815
+      NES - Castlevania 2 Simons Quest - Enemies_83: 1052390120
+      NES - Castlevania 2 Simons Quest - Enemies_156: 32410919
+      Skele2Shoot1: 849919131
+      NES - Castlevania 2 Simons Quest - Enemies_16: 834581877
+      NES - Castlevania 2 Simons Quest - Enemies_36: -1673945583
+      NES - Castlevania 2 Simons Quest - Enemies_0: -338574601
+      NES - Castlevania 2 Simons Quest - Enemies_159: 100609492
+      NES - Castlevania 2 Simons Quest - Enemies_151: -1841969945
+      NES - Castlevania 2 Simons Quest - Enemies_115: 791449627
+      Crow3: 992161753
+      NES - Castlevania 2 Simons Quest - Enemies_18: -1248660577
+      NES - Castlevania 2 Simons Quest - Enemies_102: 1515204164
+      NES - Castlevania 2 Simons Quest - Enemies_34: -1414257017
+      NES - Castlevania 2 Simons Quest - Enemies_137: -716262622
+      NES - Castlevania 2 Simons Quest - Enemies_141: -721983313
+      Lagoon3Shoot: 34387854
+      NES - Castlevania 2 Simons Quest - Enemies_60: -506424912
+      NES - Castlevania 2 Simons Quest - Enemies_27: 849801867
+      NES - Castlevania 2 Simons Quest - Enemies_122: 1041524842
+      NES - Castlevania 2 Simons Quest - Enemies_142: -1326952226
+      NES - Castlevania 2 Simons Quest - Enemies_98: -1395939194
+      NES - Castlevania 2 Simons Quest - Enemies_93: 1128901156
+      Crow2: 1718216925
+      NES - Castlevania 2 Simons Quest - Enemies_135: -2121394696
+      Crow1: 1130615972
+      NES - Castlevania 2 Simons Quest - Enemies_147: 1553965448
+      Skele2: 45322044
+      SlimeDrop1: 1732066363
+      NES - Castlevania 2 Simons Quest - Enemies_43: 1933383861
+      NES - Castlevania 2 Simons Quest - Enemies_48: -1890253538
+      NES - Castlevania 2 Simons Quest - Enemies_76: -2008895096
+      NES - Castlevania 2 Simons Quest - Enemies_85: 741372537
+      NES - Castlevania 2 Simons Quest - Enemies_130: 1310130819
+      NES - Castlevania 2 Simons Quest - Enemies_132: -678491724
+      Gargoyle1: -1416387552
+      Gargoyl2Shoot: -64214196
+      NES - Castlevania 2 Simons Quest - Enemies_64: 461274075
+      Knight1: 1256900516
+      Gargoyle3: -920602584
+      NES - Castlevania 2 Simons Quest - Enemies_104: -811805244
+      NES - Castlevania 2 Simons Quest - Enemies_105: 519661777
+      NES - Castlevania 2 Simons Quest - Enemies_66: 1788157169
+      NES - Castlevania 2 Simons Quest - Enemies_157: -1454903351
+      NES - Castlevania 2 Simons Quest - Enemies_15: 1485163634
+      NES - Castlevania 2 Simons Quest - Enemies_111: -1487613302
+      NES - Castlevania 2 Simons Quest - Enemies_75: 1600722552
+      NES - Castlevania 2 Simons Quest - Enemies_92: -339959195
+      NES - Castlevania 2 Simons Quest - Enemies_73: 787206654
+      NES - Castlevania 2 Simons Quest - Enemies_134: -1421076601
+      NES - Castlevania 2 Simons Quest - Enemies_72: -602695832
+      NES - Castlevania 2 Simons Quest - Enemies_6: 1487185583
+      NES - Castlevania 2 Simons Quest - Enemies_143: 372913656
+      NES - Castlevania 2 Simons Quest - Enemies_89: -1422043251
+      NES - Castlevania 2 Simons Quest - Enemies_117: -73316354
+      SlimeDrop4: -532460583
+      Skele2Shoot3: -1972261022
+      NES - Castlevania 2 Simons Quest - Enemies_47: 1943309727
+      NES - Castlevania 2 Simons Quest - Enemies_1: 1056824633
+      NES - Castlevania 2 Simons Quest - Enemies_29: 1751579863
+      NES - Castlevania 2 Simons Quest - Enemies_4: 589771435
+      NES - Castlevania 2 Simons Quest - Enemies_148: -1887061126
+      NES - Castlevania 2 Simons Quest - Enemies_70: -1590317310
+      NES - Castlevania 2 Simons Quest - Enemies_146: 130030956
+      Bat2: 64218652
+      NES - Castlevania 2 Simons Quest - Enemies_81: -2120173766
+      NES - Castlevania 2 Simons Quest - Enemies_20: 1183095157
+      NES - Castlevania 2 Simons Quest - Enemies_74: -986855382
+      Bat1: 1765628224
+      NES - Castlevania 2 Simons Quest - Enemies_94: -242023775
+      NES - Castlevania 2 Simons Quest - Enemies_90: 599864624
+      NES - Castlevania 2 Simons Quest - Enemies_28: -1595049698
+      NES - Castlevania 2 Simons Quest - Enemies_86: -58073419
+      NES - Castlevania 2 Simons Quest - Enemies_23: -2103912266
+      SlimeDrop3: -1848358281
+      Cat2: -1686311572
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

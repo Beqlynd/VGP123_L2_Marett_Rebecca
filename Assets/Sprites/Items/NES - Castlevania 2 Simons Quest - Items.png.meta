@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 4be64eaf57f287a448e80b6cf0135fe3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heart1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 283
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbd0a23752e8074b95430f9e1313d07
+      internalID: -1752936412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 281
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5405049650536cd4ea45c4c67f98ba64
+      internalID: -115802331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laurels
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 282
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152e91ca4b5868146b188eaeb426f575
+      internalID: -1705346036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OakStake
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 282
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e45b0c2ebafb9047943f84bc1134786
+      internalID: 1567282216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania 2 Simons Quest - Items_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 283
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626e28c4c12b7c14c96aefeb8c2e4687
+      internalID: -1530377194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyWater
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 279
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fd03d37e0dc7349964d58d0b2ad2df
+      internalID: 367160339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 263
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61564fc6aaec0e843a9696ea927fc04d
+      internalID: 530616690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 244
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c17222d8d3417459c862e566c59675
+      internalID: -2036787336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RelicBag
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 75
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953da85f390d42745be0ca231d790017
+      internalID: -396622210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBlue
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0dea8db688c8a4bb549b5155d35de2
+      internalID: 1232531921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossRed
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a83865bf2122d4a90ce0d83eb19f2b
+      internalID: -326406821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Castlevania 2 Simons Quest - Items_1: -1146337307
+      NES - Castlevania 2 Simons Quest - Items_61: -266401060
+      NES - Castlevania 2 Simons Quest - Items_0: 11932358
+      NES - Castlevania 2 Simons Quest - Items_59: 1278945235
+      Laurels: -1705346036
+      NES - Castlevania 2 Simons Quest - Items_13: -1530377194
+      NES - Castlevania 2 Simons Quest - Items_42: -1278946375
+      NES - Castlevania 2 Simons Quest - Items_31: 1778979392
+      NES - Castlevania 2 Simons Quest - Items_10: 1142891158
+      NES - Castlevania 2 Simons Quest - Items_28: -1607186711
+      NES - Castlevania 2 Simons Quest - Items_47: 851532078
+      Heart1: -1752936412
+      NES - Castlevania 2 Simons Quest - Items_2: 962311983
+      NES - Castlevania 2 Simons Quest - Items_7: 1839300595
+      NES - Castlevania 2 Simons Quest - Items_46: 1177014701
+      NES - Castlevania 2 Simons Quest - Items_16: 1684530741
+      NES - Castlevania 2 Simons Quest - Items_54: -2065089335
+      NES - Castlevania 2 Simons Quest - Items_57: -1020517275
+      CrossRed: -326406821
+      NES - Castlevania 2 Simons Quest - Items_6: -1501023148
+      NES - Castlevania 2 Simons Quest - Items_35: 1269031064
+      Heart2: 530616690
+      NES - Castlevania 2 Simons Quest - Items_48: 1637538897
+      NES - Castlevania 2 Simons Quest - Items_3: -1576677968
+      NES - Castlevania 2 Simons Quest - Items_63: 780190338
+      NES - Castlevania 2 Simons Quest - Items_51: 1878737776
+      NES - Castlevania 2 Simons Quest - Items_33: -617865563
+      NES - Castlevania 2 Simons Quest - Items_32: 1052761707
+      NES - Castlevania 2 Simons Quest - Items_38: -807258427
+      NES - Castlevania 2 Simons Quest - Items_44: -645698533
+      NES - Castlevania 2 Simons Quest - Items_49: -75716566
+      NES - Castlevania 2 Simons Quest - Items_40: -1066214362
+      NES - Castlevania 2 Simons Quest - Items_53: 1565273637
+      NES - Castlevania 2 Simons Quest - Items_41: -730389525
+      NES - Castlevania 2 Simons Quest - Items_23: 1469241933
+      NES - Castlevania 2 Simons Quest - Items_39: 197064831
+      NES - Castlevania 2 Simons Quest - Items_5: 1449623900
+      NES - Castlevania 2 Simons Quest - Items_43: -1426374708
+      NES - Castlevania 2 Simons Quest - Items_26: -1029404657
+      NES - Castlevania 2 Simons Quest - Items_56: 1066401673
+      NES - Castlevania 2 Simons Quest - Items_34: -1855498759
+      NES - Castlevania 2 Simons Quest - Items_36: -202330598
+      NES - Castlevania 2 Simons Quest - Items_52: 2027317307
+      NES - Castlevania 2 Simons Quest - Items_29: -1006662732
+      NES - Castlevania 2 Simons Quest - Items_45: -1663004829
+      HolyWater: 367160339
+      NES - Castlevania 2 Simons Quest - Items_21: 504902969
+      CrossBlue: 1232531921
+      NES - Castlevania 2 Simons Quest - Items_15: 816132903
+      NES - Castlevania 2 Simons Quest - Items_14: -573493068
+      Heart3: -2036787336
+      NES - Castlevania 2 Simons Quest - Items_62: 1508847451
+      NES - Castlevania 2 Simons Quest - Items_60: -14777822
+      NES - Castlevania 2 Simons Quest - Items_22: 464398575
+      NES - Castlevania 2 Simons Quest - Items_25: -1495436049
+      NES - Castlevania 2 Simons Quest - Items_24: -1053129580
+      NES - Castlevania 2 Simons Quest - Items_27: 1513906525
+      OakStake: 1567282216
+      RelicBag: -396622210
+      NES - Castlevania 2 Simons Quest - Items_4: 23125274
+      NES - Castlevania 2 Simons Quest - Items_37: -1364755520
+      NES - Castlevania 2 Simons Quest - Items_30: -1038750169
+      Dagger: -115802331
+      NES - Castlevania 2 Simons Quest - Items_19: 385983482
+      NES - Castlevania 2 Simons Quest - Items_50: -331002312
+      NES - Castlevania 2 Simons Quest - Items_58: -611234358
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

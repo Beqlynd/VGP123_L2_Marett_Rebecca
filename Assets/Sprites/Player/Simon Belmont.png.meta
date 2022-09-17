@@ -111,8 +111,8 @@ TextureImporter:
         y: 686
         width: 16
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -132,8 +132,8 @@ TextureImporter:
         y: 686
         width: 11
         height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -153,8 +153,8 @@ TextureImporter:
         y: 686
         width: 16
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -174,8 +174,8 @@ TextureImporter:
         y: 686
         width: 16
         height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -195,8 +195,8 @@ TextureImporter:
         y: 643
         width: 32
         height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -216,8 +216,8 @@ TextureImporter:
         y: 644
         width: 31
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -237,8 +237,8 @@ TextureImporter:
         y: 644
         width: 46
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -258,8 +258,8 @@ TextureImporter:
         y: 644
         width: 54
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -272,78 +272,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_8
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 643
-        width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84846c3238b55204f807293e81415ddd
-      internalID: 709940152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_9
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 644
-        width: 32
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fff84512fc11a95419059567295ea508
-      internalID: -545128597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_10
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 644
-        width: 62
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6351028fe3160e54bb099e4646cd6f87
-      internalID: -1974576613
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SbRun1
+      name: SbJump1
       rect:
         serializedVersion: 2
         x: 486
         y: 640
         width: 11
         height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -356,15 +293,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SbRun2
+      name: SbJump2
       rect:
         serializedVersion: 2
         x: 517
         y: 639
         width: 16
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -384,8 +321,8 @@ TextureImporter:
         y: 597
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -405,8 +342,8 @@ TextureImporter:
         y: 605
         width: 31
         height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -426,8 +363,8 @@ TextureImporter:
         y: 605
         width: 46
         height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -447,8 +384,8 @@ TextureImporter:
         y: 605
         width: 54
         height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -461,78 +398,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_17
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 598
-        width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f163e5e0cd51960419acf5650f19dbf7
-      internalID: 267728282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_18
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 599
-        width: 32
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a96fc99c0026e140b8bb1535cb7cc6f
-      internalID: -932377875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_19
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 599
-        width: 62
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c62883f06cf3f345b30bbffc3b7fc49
-      internalID: -756187091
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SbRun3
+      name: SbJump3
       rect:
         serializedVersion: 2
         x: 484
         y: 595
         width: 11
         height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -545,15 +419,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SbRun4
+      name: SbJump4
       rect:
         serializedVersion: 2
         x: 518
-        y: 595
+        y: 596
         width: 16
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -566,15 +440,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SbJumpAttack1
+      name: SbJumpDownAttack1
       rect:
         serializedVersion: 2
         x: 8
         y: 550
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -587,15 +461,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SbJumpAttack2
+      name: SbJumpDownAttack2
       rect:
         serializedVersion: 2
         x: 55
         y: 550
         width: 31
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -608,15 +482,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SbJumpAttack3
+      name: SbJumpDownAttack3
       rect:
         serializedVersion: 2
         x: 107
         y: 550
         width: 46
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -629,15 +503,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SbJumpAttack4
+      name: SbJumpDownAttack4
       rect:
         serializedVersion: 2
         x: 178
         y: 550
         width: 54
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -650,69 +524,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_26
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 545
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 490f2b3930a8d094295f902177987e11
-      internalID: 1189977538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_27
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 553
-        width: 32
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a405374b728cec047b3e61c9732ffdb9
-      internalID: 825033897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_28
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 553
-        width: 62
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d9e2444b18ef19c469098a49099a36fe
-      internalID: -1171645146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: SbCollapse1
       rect:
         serializedVersion: 2
@@ -720,8 +531,8 @@ TextureImporter:
         y: 549
         width: 16
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -741,8 +552,8 @@ TextureImporter:
         y: 549
         width: 32
         height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -755,15 +566,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_31
+      name: SbJumpUpAttack1
       rect:
         serializedVersion: 2
         x: 8
         y: 500
         width: 31
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -776,15 +587,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_32
+      name: SbJumpUpAttack2
       rect:
         serializedVersion: 2
         x: 55
         y: 500
         width: 30
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -797,15 +608,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_33
+      name: SbJumpUpAttack3
       rect:
         serializedVersion: 2
-        x: 107
+        x: 106
         y: 500
         width: 46
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -818,15 +629,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_34
+      name: SbJumpUpAttack4
       rect:
         serializedVersion: 2
         x: 178
         y: 500
         width: 54
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -839,69 +650,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_35
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 504
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 816dd7250c71ab14da12ff6eef598480
-      internalID: -1298880817
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_36
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 512
-        width: 32
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc684883785de3b4e8f58acdf9565516
-      internalID: -1028127891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_37
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 512
-        width: 62
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 108422ef2c0b5104ebf13e8946a44b5d
-      internalID: 58045693
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: SbShield1
       rect:
         serializedVersion: 2
@@ -909,8 +657,8 @@ TextureImporter:
         y: 491
         width: 19
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -930,8 +678,8 @@ TextureImporter:
         y: 491
         width: 19
         height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -944,15 +692,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_40
+      name: SbChainAttack1
       rect:
         serializedVersion: 2
         x: 7
         y: 455
         width: 33
         height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -965,15 +713,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_41
+      name: SbChainAttack2
       rect:
         serializedVersion: 2
         x: 54
         y: 456
         width: 32
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -986,15 +734,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_42
+      name: SbChainAttack3
       rect:
         serializedVersion: 2
         x: 107
         y: 456
         width: 54
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1007,69 +755,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_43
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 457
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c9f21742ed644545b3573c575744444
-      internalID: -473506851
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_44
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 457
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd2c339b8a6176b40ba506bec793b029
-      internalID: -1231380235
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_45
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 457
-        width: 62
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f56fccea0e36164ba5b103aca725dd2
-      internalID: 14946095
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: SbPunch1
       rect:
         serializedVersion: 2
@@ -1077,8 +762,8 @@ TextureImporter:
         y: 443
         width: 25
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1098,8 +783,8 @@ TextureImporter:
         y: 443
         width: 16
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1119,8 +804,8 @@ TextureImporter:
         y: 443
         width: 22
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1133,141 +818,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_49
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 410
-        width: 33
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7533ace78e17b45429740a152d3384cd
-      internalID: 172383971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_50
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 411
-        width: 32
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 47bc5cdda2a2dc540a1f5d9aa426f3ab
-      internalID: 2009033620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_51
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 411
-        width: 54
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 70d3a5fa70951974bbeb164a1c4b39bd
-      internalID: -1769636886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_52
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 409
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03ee136b2e9fab44293045909bb3b910
-      internalID: 1685876513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_53
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 409
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a2313872936d9343b91c05523d3006e
-      internalID: 198611649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_54
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 409
-        width: 62
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5f501b263b1645042b1470d0f5c45f6c
-      internalID: -2079858281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_55
+      name: SbCrouchChainAttack1
       rect:
         serializedVersion: 2
         x: 7
         y: 358
         width: 33
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1280,15 +839,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_56
+      name: SbCrouchChainAttack2
       rect:
         serializedVersion: 2
         x: 54
         y: 366
         width: 32
         height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1301,15 +860,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_57
+      name: SbCrouchChainAttack3
       rect:
         serializedVersion: 2
         x: 107
         y: 366
         width: 54
         height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1322,204 +881,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_58
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 359
-        width: 31
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b5b206dc8d03f8a42997154ebfbeb933
-      internalID: -1952986866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_59
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 359
-        width: 31
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 74ffd47dbf201e3498ff93e6cf212611
-      internalID: 262271145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_60
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 359
-        width: 62
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 510680eed2ef73241b3955d959a034e7
-      internalID: 971258380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_61
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 315
-        width: 33
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae9346ff2062d1247aa19814eabe7007
-      internalID: 1459109173
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_62
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 323
-        width: 32
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d573522b367ffd74abdf2ad4b931f7c1
-      internalID: -400153709
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_63
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 323
-        width: 54
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b5592add1c8cb14399873f21a6e8a11
-      internalID: -845981752
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_64
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 314
-        width: 31
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bfa319d69aecb9d4884d4041b0713825
-      internalID: 136572949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_65
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 314
-        width: 31
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9b0c36bf4446a740906373847afb483
-      internalID: 1093068437
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_66
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 314
-        width: 62
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 171f5e81c28314a45ba0ecbf0a671e21
-      internalID: 968416616
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_67
+      name: SbJumpDownChainAttack1
       rect:
         serializedVersion: 2
         x: 7
         y: 271
         width: 33
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1532,15 +902,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_68
+      name: SbJumpDownChainAttack2
       rect:
         serializedVersion: 2
         x: 54
         y: 271
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1553,15 +923,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_69
+      name: SbJumpDownChainAttack3
       rect:
         serializedVersion: 2
         x: 107
         y: 271
         width: 54
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1574,15 +944,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_70
+      name: SbFireWhip1
       rect:
         serializedVersion: 2
         x: 271
         y: 255
         width: 32
         height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1595,15 +965,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_71
+      name: SbFireWhip2
       rect:
         serializedVersion: 2
         x: 317
         y: 256
         width: 32
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1616,15 +986,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_72
+      name: SbFireWhip3
       rect:
         serializedVersion: 2
         x: 370
         y: 256
         width: 62
         height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1637,78 +1007,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_73
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 228
-        width: 33
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 18b77c26ed8267947a31b7f64d09507a
-      internalID: 1701794948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_74
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 228
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2701727703248649beefe10342f0b7b
-      internalID: -1636943465
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_75
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 228
-        width: 54
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 521960860d44d6d49a9394d2c0049c46
-      internalID: 1288260040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_76
+      name: SbCrouchFireWhip1
       rect:
         serializedVersion: 2
         x: 271
         y: 209
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1721,15 +1028,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_77
+      name: SbCrouchFireWhip2
       rect:
         serializedVersion: 2
         x: 317
         y: 217
         width: 32
         height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1742,15 +1049,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_78
+      name: SbCrouchFireWhip3
       rect:
         serializedVersion: 2
         x: 370
         y: 217
         width: 62
         height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1763,15 +1070,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_79
+      name: SbJumpUpChainAttack1
       rect:
         serializedVersion: 2
         x: 7
         y: 173
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1784,15 +1091,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_80
+      name: SbJumpUpChainAttack2
       rect:
         serializedVersion: 2
         x: 54
         y: 173
         width: 31
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1805,15 +1112,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_81
+      name: SbJumpUpChainAttack3
       rect:
         serializedVersion: 2
         x: 107
         y: 173
         width: 54
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1826,15 +1133,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_82
+      name: SbJumpDownFireWhip1
       rect:
         serializedVersion: 2
         x: 271
         y: 162
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1847,15 +1154,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_83
+      name: SbJumpDownFireWhip2
       rect:
         serializedVersion: 2
         x: 317
         y: 162
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1868,15 +1175,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_84
+      name: SbJumpDownFireWhip3
       rect:
         serializedVersion: 2
         x: 370
         y: 162
         width: 62
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1889,78 +1196,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_85
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 130
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c705461e8ddc5e4abb7ebfb1c8e55cd
-      internalID: 826590247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_86
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 130
-        width: 31
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bfe3a1608c7ba0b448b1e9209a6eb567
-      internalID: 660859754
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_87
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 130
-        width: 54
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61f53a14e6fd0954d9e106017584209f
-      internalID: 865970846
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_88
+      name: SbJumpUpFireWhip1
       rect:
         serializedVersion: 2
         x: 271
         y: 112
         width: 31
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1973,7 +1217,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_89
+      name: SbJumpUpFireWhip2
       rect:
         serializedVersion: 2
         x: 317
@@ -1994,15 +1238,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Simon Belmont_90
+      name: SbJumpUpFireWhip3
       rect:
         serializedVersion: 2
         x: 370
         y: 112
         width: 62
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2010,69 +1254,6 @@ TextureImporter:
       bones: []
       spriteID: 20c552cb21d395040ace25abe9862c2f
       internalID: -1384619850
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_91
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 39
-        width: 127
-        height: 44
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1de71cf72d92bed41874177e4d3f70da
-      internalID: -510959794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_92
-      rect:
-        serializedVersion: 2
-        x: 279
-        y: 46
-        width: 18
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e898f92a85fdf5046a10fb536a738f7e
-      internalID: -1125318442
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Simon Belmont_93
-      rect:
-        serializedVersion: 2
-        x: 249
-        y: 13
-        width: 122
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 337e87128439859468bc742cf59a29ba
-      internalID: 161343502
       vertices: []
       indices: 
       edges: []
@@ -2088,100 +1269,100 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Simon Belmont_72: 568380575
       SbWalk1: 1018875579
       Simon Belmont_50: 2009033620
       Simon Belmont_73: 1701794948
       Simon Belmont_10: -1974576613
       SbCollapse1: -684622050
       Simon Belmont_28: -1171645146
+      SbChainAttack1: 1574813945
       SbCrouch: 949053012
       Simon Belmont_92: -1125318442
+      SbJumpUpAttack3: -1799421584
       Simon Belmont_43: -473506851
       Simon Belmont_54: -2079858281
+      SbJump4: -847103779
+      SbCrouchChainAttack3: -1887879020
+      SbFireWhip1: 218953845
       Simon Belmont_64: 136572949
-      Simon Belmont_67: -1375224908
-      Simon Belmont_76: 92904961
+      SbJumpUpFireWhip2: -2116971975
+      SbJumpUpFireWhip1: 1261946826
       SbWalk3: 2001291465
-      Simon Belmont_80: -1045661140
-      Simon Belmont_31: 377740583
-      Simon Belmont_58: -1952986866
-      Simon Belmont_53: 198611649
+      SbJumpDownFireWhip1: 1142731480
       SbPunch3: 827448606
-      Simon Belmont_70: 218953845
-      Simon Belmont_57: -1887879020
+      Simon Belmont_58: -1952986866
+      SbJump1: 627588200
+      Simon Belmont_53: 198611649
       Simon Belmont_8: 709940152
-      SbJumpAttack4: -1670389888
       Simon Belmont_74: -1636943465
+      SbJumpUpChainAttack3: 663291600
       SbWalk2: 616144878
+      SbFireWhip2: -284190739
       Simon Belmont_51: -1769636886
-      Simon Belmont_69: -1264346140
       Simon Belmont_52: 1685876513
       Simon Belmont_93: 161343502
       SbPunch2: -702946401
+      SbJumpDownChainAttack2: -1332624758
+      SbChainAttack2: -639691223
       Simon Belmont_61: 1459109173
+      SbJumpDownAttack3: 1169296183
       SbAttack3: -2066759867
       Simon Belmont_26: 1189977538
       Simon Belmont_87: 865970846
-      Simon Belmont_33: -1799421584
-      Simon Belmont_68: -1332624758
-      Simon Belmont_77: -2120622265
-      Simon Belmont_32: -754464887
-      Simon Belmont_83: -1951989723
+      SbJumpDownChainAttack1: -1375224908
+      SbCrouchFireWhip2: -2120622265
       SbCrouchAttack4: 1153387325
-      Simon Belmont_42: 1357203380
-      Simon Belmont_71: -284190739
       SbCrouchAttack3: -1245684826
-      Simon Belmont_79: 850170701
+      SbJumpDownFireWhip2: -1951989723
       Simon Belmont_36: -1028127891
       Simon Belmont_35: -1298880817
-      SbJumpAttack2: 1169296183
       SbCollapse2: 1341659635
       Simon Belmont_63: -845981752
-      SbJumpAttack1: 152391542
       Simon Belmont_27: 825033897
       Simon Belmont_86: 660859754
-      Simon Belmont_81: 663291600
-      Simon Belmont_90: -1384619850
-      Simon Belmont_82: 1142731480
+      SbJumpDownFireWhip3: 2068745560
+      SbCrouchChainAttack1: -1257690257
+      SbJumpUpAttack4: 1201596700
       SbPunch1: -1301323690
       Simon Belmont_85: 826590247
+      SbJumpDownAttack2: 152391542
+      SbJumpUpChainAttack2: -1045661140
       Simon Belmont_49: 172383971
       Simon Belmont_18: -932377875
-      Simon Belmont_41: -639691223
+      SbJumpUpAttack1: 377740583
       Simon Belmont_17: 267728282
+      SbJumpUpChainAttack1: 850170701
       Simon Belmont_75: 1288260040
+      SbChainAttack3: 1357203380
       Simon Belmont_91: -510959794
       Simon Belmont_65: 1093068437
       Simon Belmont_37: 58045693
       Simon Belmont_66: 968416616
+      SbJump2: 208874446
+      SbCrouchChainAttack2: 860619291
       SbAttack1: 95311113
-      Simon Belmont_78: -450452751
       Simon Belmont_45: 14946095
-      SbJumpAttack3: -1316525675
+      SbJumpDownChainAttack3: -1264346140
+      SbJump3: 1072021890
       SbShield1: 2086601941
       Simon Belmont_62: -400153709
       Simon Belmont_9: -545128597
       SbCrouchAttack2: 1391990619
       Simon Belmont_19: -756187091
       SbAttack4: 83327281
-      Simon Belmont_34: 1201596700
+      SbJumpUpFireWhip3: -1384619850
       Simon Belmont_44: -1231380235
+      SbCrouchFireWhip1: 92904961
       SbShield2: -2119180653
-      Simon Belmont_40: 1574813945
-      Simon Belmont_55: -1257690257
-      SbRun3: 1072021890
-      SbRun1: 627588200
-      Simon Belmont_56: 860619291
+      SbCrouchFireWhip3: -450452751
       Simon Belmont_60: 971258380
-      SbRun4: -847103779
-      Simon Belmont_84: 2068745560
+      SbJumpDownAttack1: 152391542
       SbCrouchAttack1: 927618722
+      SbFireWhip3: 568380575
       SbAttack2: -709434731
       Simon Belmont_59: 262271145
-      Simon Belmont_89: -2116971975
-      SbRun2: 208874446
-      Simon Belmont_88: 1261946826
+      SbJumpDownAttack4: -1316525675
+      SbJumpUpAttack2: -754464887
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
